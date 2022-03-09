@@ -7,11 +7,11 @@ This is a simple alarm system made with help of buzzer, LED and an Ultrasonic se
 
 HIGH LEVEL REQUIREMENTS
 
-HLR1	The buzzer should be on if the object detects
-HLR2	The distance should be measured
-HLR3	The servo motor performs the function of a radar
-HLR4    The distance should be measured
-HLR5    If the object detects the servo motor should stop otherwise it keeps on rotating
+HLR1-	The buzzer should be on if the object detects
+HLR2-	The distance should be measured
+HLR3-	The servo motor performs the function of a radar
+HLR4- The distance should be measured
+HLR5- If the object detects the servo motor should stop otherwise it keeps on rotating
 
 
 LOW LEVEL REQUIREMENTS
