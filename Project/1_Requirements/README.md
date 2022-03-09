@@ -16,9 +16,9 @@ HLR5- If the object detects the servo motor should stop otherwise it keeps on ro
 
 LOW LEVEL REQUIREMENTS
 
-LLR1	The servo motor should rotates continuously between 0 and 180 degrees
-LLR2	The system should alert the user when an object detects
-LLR3    The corresponding distance of the object from the sensor should be displayed on the LCD     screen
+LLR1-	The servo motor should rotates continuously between 0 and 180 degrees, 
+LLR2-	The system should alert the user when an object detects,
+LLR3- The corresponding distance of the object from the sensor should be displayed on the LCD screen, 
 
 SWOT ANALYSIS
 
