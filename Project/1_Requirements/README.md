@@ -1,5 +1,5 @@
 
-#ULTRASONIC SECURITY SYSTEM
+# ULTRASONIC SECURITY SYSTEM
 ---
 ## Abstruct
 This project is an ultrasonic based security alarm. It is distance sensitive, so the buzzer beeps faster if the object is near and it beeps slowly if the object is far.
