@@ -34,3 +34,7 @@
 ## Block Diagram
 
 ![BlockDiagram](https://user-images.githubusercontent.com/92364247/157839509-3f6d14ee-fb79-425f-8671-e17fdce36633.jpg)
+
+## FlowChart
+
+![FlowChart](https://user-images.githubusercontent.com/92364247/157840034-94e40c2a-84f4-4006-ac9d-008e0f64f294.jpg)
