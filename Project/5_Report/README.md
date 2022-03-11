@@ -102,3 +102,10 @@ In this project the buzzer is used to alert the user.
 | TC_4 | If the object detects | Object | Servo Motor should stop | 
 | TC_5 | If the object is not detected | Object | Servo Motor Keeps on rotating |
 
+# Applications
+
+* Security system is used in houses.
+* Security system is used in offices.
+* Security system is used in industries.
+* Security systems are used in institutes.
+* Wherever we require security we can use the security system.
