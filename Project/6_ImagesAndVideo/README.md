@@ -1,6 +1,6 @@
 # Simulation pictures
 ---
-##Before the starting of the security system.
+## Before the starting of the security system.
 
 ![](https://user-images.githubusercontent.com/46968025/157030793-eccb9712-0bbb-4b84-b82a-8e0eeef13eec.png)
 ---
