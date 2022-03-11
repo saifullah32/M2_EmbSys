@@ -80,7 +80,14 @@ In this project the buzzer is used to alert the user.
 ---
 ## Behaviour Diagram
 
+![BlockDiagram](https://user-images.githubusercontent.com/92364247/157842460-b3cc3204-1789-4723-9bee-262a6446a2ff.jpg)
+
 
 ## FlowChart
 
+![FlowChart](https://user-images.githubusercontent.com/92364247/157842575-d732ae9f-a2c4-4d1e-bc8c-0fcb35845011.jpg)
+
+
 ## Structural diagram
+
+![Structural diagram](https://user-images.githubusercontent.com/92364247/157842677-d54fda89-81c1-493b-9a03-37f0430e87b6.jpg)
