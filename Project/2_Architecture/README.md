@@ -1,4 +1,5 @@
-# COMPONENTS REQUIRED
+## COMPONENTS REQUIRED
+---
 
 ## ARDUINO UNO
 * The Arduino/Genuino Uno microcontroller board is based on the ATmega328P microcontroller. There are 14 digital input/output pins (six of which can be used as PWM outputs), six analogue inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button on the board.
