@@ -31,10 +31,14 @@
 * It is an electric signaling device that makes a buzzing sound.
 * In this project the buzzer is used to alert the user.
 ---
-## Block Diagram
+## Behaviour Diagram
 
 ![BlockDiagram](https://user-images.githubusercontent.com/92364247/157839509-3f6d14ee-fb79-425f-8671-e17fdce36633.jpg)
 
 ## FlowChart
 
 ![FlowChart](https://user-images.githubusercontent.com/92364247/157840034-94e40c2a-84f4-4006-ac9d-008e0f64f294.jpg)
+---
+## Structural Diagram
+
+![Structural diagram](https://user-images.githubusercontent.com/92364247/157840443-4c907249-fde1-46db-8414-8996f8b3e6c9.jpg)
